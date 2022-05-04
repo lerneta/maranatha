@@ -1,0 +1,157 @@
+.elementor-1954 .elementor-element.elementor-element-eb81a42 {
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0em 0em 0em 0em;
+}
+
+.elementor-1954 .elementor-element.elementor-element-eb81a42>.elementor-background-overlay {
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1954 .elementor-element.elementor-element-b1c764f>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-b1c764f>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-b1c764f>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-34b7eed:not(.elementor-motion-effects-element-type-background),
+.elementor-1954 .elementor-element.elementor-element-34b7eed>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-3957c18);
+}
+
+.elementor-1954 .elementor-element.elementor-element-34b7eed {
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1954 .elementor-element.elementor-element-34b7eed>.elementor-background-overlay {
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1954 .elementor-element.elementor-element-5a159fb>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-5a159fb>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 3em 2em 2em 2em;
+}
+
+.elementor-1954 .elementor-element.elementor-element-10d798d {
+    text-align: center;
+}
+
+.elementor-1954 .elementor-element.elementor-element-10d798d .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-1954 .elementor-element.elementor-element-db90ee7 {
+    --divider-border-style: solid;
+    --divider-color: var(--e-global-color-accent);
+    --divider-border-width: 1px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-db90ee7 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-1954 .elementor-element.elementor-element-db90ee7 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-1954 .elementor-element.elementor-element-6a98997 {
+    text-align: justify;
+}
+
+.elementor-1954 .elementor-element.elementor-element-22f8128:not(.elementor-motion-effects-element-type-background),
+.elementor-1954 .elementor-element.elementor-element-22f8128>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-98c822c);
+}
+
+.elementor-1954 .elementor-element.elementor-element-22f8128 {
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 3em 1em 3em 1em;
+}
+
+.elementor-1954 .elementor-element.elementor-element-22f8128>.elementor-background-overlay {
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-accordion-item {
+    border-width: 1px;
+    border-color: #DFE1E4;
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-accordion-item .elementor-tab-content {
+    border-width: 1px;
+    border-top-color: #DFE1E4;
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-accordion-item .elementor-tab-title.elementor-active {
+    border-width: 1px;
+    border-bottom-color: #DFE1E4;
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-tab-title {
+    background-color: var(--e-global-color-3957c18);
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-active .elementor-accordion-icon,
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-active .elementor-accordion-title {
+    color: var(--e-global-color-primary);
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-active .elementor-accordion-icon svg {
+    fill: var(--e-global-color-primary);
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-accordion-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-tab-title .elementor-accordion-icon i:before {
+    color: var(--e-global-color-8423d5f);
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-tab-title .elementor-accordion-icon svg {
+    fill: var(--e-global-color-8423d5f);
+}
+
+.elementor-1954 .elementor-element.elementor-element-aaf80de .elementor-tab-content {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 2em 2em 1em 3em;
+}
+
+#elementor-popup-modal-1954 .dialog-message {
+    width: 640px;
+    height: auto;
+}
+
+#elementor-popup-modal-1954 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-1954 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-1954 .dialog-widget-content {
+    animation-duration: 1.2s;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}

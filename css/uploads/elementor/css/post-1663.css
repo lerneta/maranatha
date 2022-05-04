@@ -1,10 +1,10 @@
 .elementor-1663 .elementor-element.elementor-element-272cbf7 {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 25em 0em 20em 0em;
 }
 
 .elementor-1663 .elementor-element.elementor-element-272cbf7>.elementor-background-overlay {
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
 .elementor-1663 .elementor-element.elementor-element-272cbf7>.elementor-shape-bottom svg {
@@ -109,12 +109,12 @@
 }
 
 .elementor-1663 .elementor-element.elementor-element-d18971f {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 0em 0em 4em 0em;
 }
 
 .elementor-1663 .elementor-element.elementor-element-d18971f>.elementor-background-overlay {
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
 .elementor-1663 .elementor-element.elementor-element-d18971f>.elementor-shape-bottom .elementor-shape-fill {
@@ -293,7 +293,7 @@
 .elementor-1663 .elementor-element.elementor-element-b80f120 .elementor-divider-separator {
     width: 56%;
     margin: 0 auto;
-    margin-center: 0;
+    margin: 0;
 }
 
 .elementor-1663 .elementor-element.elementor-element-b80f120 .elementor-divider {
@@ -361,12 +361,12 @@
 }
 
 .elementor-1663 .elementor-element.elementor-element-08a2bf7 {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 4em 0em 4em 0em;
 }
 
 .elementor-1663 .elementor-element.elementor-element-08a2bf7>.elementor-background-overlay {
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
 .elementor-1663 .elementor-element.elementor-element-8b13638>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
@@ -391,12 +391,12 @@
 }
 
 .elementor-1663 .elementor-element.elementor-element-faf5349 {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 14em 0em 14em 0em;
 }
 
 .elementor-1663 .elementor-element.elementor-element-faf5349>.elementor-background-overlay {
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    transition: background-color 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 
 .elementor-1663 .elementor-element.elementor-element-0d5c927 {
@@ -558,7 +558,7 @@
     .elementor-1663 .elementor-element.elementor-element-b80f120 .elementor-divider-separator {
         width: 100%;
         margin: 0 auto;
-        margin-center: 0;
+        margin: 0;
     }
 
     .elementor-1663 .elementor-element.elementor-element-b80f120 .elementor-divider {
