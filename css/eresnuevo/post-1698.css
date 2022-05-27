@@ -1,0 +1,605 @@
+.elementor-1698 .elementor-element.elementor-element-79bce6c:not(.elementor-motion-effects-element-type-background),
+.elementor-1698 .elementor-element.elementor-element-79bce6c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://maranathausa.com/wp-content/uploads/2022/04/banner_new_here.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79bce6c {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 15em 0em 15em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79bce6c>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79bce6c>.elementor-shape-bottom svg {
+    height: 96px;
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-1698 .elementor-element.elementor-element-e908b41 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-e908b41 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    line-height: 0.9em;
+    letter-spacing: -2.8px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-bd1c02f .elementor-spacer-inner {
+    --spacer-size: 23px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-45aa66a {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-45aa66a .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-98c822c);
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f.elementor-view-framed .elementor-icon,
+.elementor-1698 .elementor-element.elementor-element-21aed7f.elementor-view-default .elementor-icon {
+    color: var(--e-global-color-98c822c);
+    border-color: var(--e-global-color-98c822c);
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f.elementor-view-framed .elementor-icon,
+.elementor-1698 .elementor-element.elementor-element-21aed7f.elementor-view-default .elementor-icon svg {
+    fill: var(--e-global-color-98c822c);
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f .elementor-icon {
+    font-size: 22px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-21aed7f .elementor-icon i,
+.elementor-1698 .elementor-element.elementor-element-21aed7f .elementor-icon svg {
+    transform: rotate(0deg);
+}
+
+.elementor-1698 .elementor-element.elementor-element-e97486d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -8em;
+    margin-bottom: 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-e97486d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1698 .elementor-element.elementor-element-0aa0564>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: flex-end;
+    align-items: flex-end;
+}
+
+.elementor-1698 .elementor-element.elementor-element-0aa0564 {
+    padding: 0em 0em 5em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-f1edc5e {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-f1edc5e .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-1698 .elementor-element.elementor-element-9471bc4 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-9471bc4 .elementor-heading-title {
+    color: #A756D3;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.elementor-1698 .elementor-element.elementor-element-997a482 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 5.6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-997a482 .elementor-divider-separator {
+    width: 67%;
+    margin: 0 auto;
+    margin: 0;
+}
+
+.elementor-1698 .elementor-element.elementor-element-997a482 .elementor-divider {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-4015df3 {
+    text-align: left;
+}
+
+.elementor-1698 .elementor-element.elementor-element-4015df3 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-1698 .elementor-element.elementor-element-2f781f9 .elementor-spacer-inner {
+    --spacer-size: 16px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-34f6d50>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-1698 .elementor-element.elementor-element-34f6d50 {
+    padding: 0em 0em 2em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-16dafe3 {
+    text-align: left;
+}
+
+.elementor-1698 .elementor-element.elementor-element-16dafe3 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.elementor-1698 .elementor-element.elementor-element-cbe6ffc {
+    width: auto;
+    max-width: auto;
+    align-self: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-e331cb6 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-49d0cd7 {
+    text-align: left;
+}
+
+.elementor-1698 .elementor-element.elementor-element-49d0cd7 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.elementor-1698 .elementor-element.elementor-element-dd9d1a0 {
+    width: auto;
+    max-width: auto;
+    align-self: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79f7129:not(.elementor-motion-effects-element-type-background),
+.elementor-1698 .elementor-element.elementor-element-79f7129>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary);
+    background-image: url("https://maranathausa.com/wp-content/uploads/2022/04/background_leaders.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79f7129 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 8em 0em 8em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79f7129>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79f7129>.elementor-shape-top svg {
+    height: 85px;
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-1698 .elementor-element.elementor-element-9e08cd3 {
+    text-align: right;
+}
+
+.elementor-1698 .elementor-element.elementor-element-9e08cd3 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-1698 .elementor-element.elementor-element-95e3951 {
+    text-align: right;
+}
+
+.elementor-1698 .elementor-element.elementor-element-95e3951 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-57271cc .elementor-spacer-inner {
+    --spacer-size: 48px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-8e1d530>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-a967751 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-4e07498 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-4e07498 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-5516e4b {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-5516e4b .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-b29b020>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-37f3941 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-7b0e338 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-7b0e338 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-674e485 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-674e485 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-64f33c2>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-fec3ac2 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-24973ca {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-24973ca .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-73e27f5 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-73e27f5 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-33ac1b1>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-6686780 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-d170efc {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-d170efc .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-39858d1 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-39858d1 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-1570aff>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-79f765a .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-df69903 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-df69903 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-9d15a67 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-9d15a67 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-81c79d8>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 6px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-a97a286 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-bce3441 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-bce3441 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-1698 .elementor-element.elementor-element-d2ebe58 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-d2ebe58 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-1698 .elementor-element.elementor-element-e21166d:not(.elementor-motion-effects-element-type-background),
+.elementor-1698 .elementor-element.elementor-element-e21166d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-98c822c);
+}
+
+.elementor-1698 .elementor-element.elementor-element-e21166d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10em 0em 2em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-e21166d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1698 .elementor-element.elementor-element-c96d178 {
+    text-align: left;
+}
+
+.elementor-1698 .elementor-element.elementor-element-c96d178 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-1698 .elementor-element.elementor-element-1f8115d img {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-f5464fc img {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-f5464fc>.elementor-widget-container {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-d1c3c8b img {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-221b373 img {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-1698 .elementor-element.elementor-element-c6acd87 {
+    padding: 0em 0em 5em 0em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-fba6ee9>.elementor-element-populated>.elementor-widget-wrap {
+    padding: 0em 3em 0em 3em;
+}
+
+.elementor-1698 .elementor-element.elementor-element-5543750 {
+    text-align: center;
+}
+
+.elementor-1698 .elementor-element.elementor-element-5543750 .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.elementor-1698 .elementor-element.elementor-element-5543750>.elementor-widget-container {
+    padding: 2em 2em 2em 2em;
+    background-image: url("https://maranathausa.com/wp-content/uploads/2022/04/I-have-decided.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 58px 58px 58px 58px;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:1024px) {
+    .elementor-1698 .elementor-element.elementor-element-79bce6c>.elementor-shape-bottom svg {
+        height: 203px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-e908b41 .elementor-heading-title {
+        font-size: 46px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-0aa0564 {
+        padding: 0em 0em 0em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9471bc4 .elementor-heading-title {
+        font-size: 19px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1698 .elementor-element.elementor-element-79bce6c {
+        padding: 11em 0em 10em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-e908b41 .elementor-heading-title {
+        font-size: 33px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-f1edc5e .elementor-heading-title {
+        font-size: 44px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9471bc4 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9471bc4 .elementor-heading-title {
+        font-size: 21px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-5af9571 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-4015df3 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-4015df3 .elementor-heading-title {
+        font-size: 44px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-16dafe3 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-cbe6ffc {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-49d0cd7 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-dd9d1a0 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-79f7129>.elementor-shape-top svg {
+        height: 81px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-79f7129 {
+        padding: 15em 0em 0em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9e08cd3 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9e08cd3 .elementor-heading-title {
+        font-size: 44px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-95e3951 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-c96d178 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-c96d178 .elementor-heading-title {
+        font-size: 44px;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-1854419 {
+        text-align: center;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-5fe872a>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 1em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-6982024>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 1em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-37b3ab1>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 1em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-6dab3b1>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 1em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-9eb8583>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 1em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-c6acd87 {
+        padding: 0em 0em 0em 0em;
+    }
+
+    .elementor-1698 .elementor-element.elementor-element-fba6ee9>.elementor-element-populated>.elementor-widget-wrap {
+        padding: 0em 0em 0em 0em;
+    }
+}
