@@ -1,0 +1,324 @@
+.elementor-1328 .elementor-element.elementor-element-d67c1e1:not(.elementor-motion-effects-element-type-background),
+.elementor-1328 .elementor-element.elementor-element-d67c1e1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://maranathausa.com/wp-content/uploads/2022/03/banner_updates.jpg");
+    background-position: top center;
+}
+
+.elementor-1328 .elementor-element.elementor-element-d67c1e1>.elementor-background-overlay {
+    background-color: var(--e-global-color-primary);
+    opacity: 0.23;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-d67c1e1 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 6em 0em 6em 0em;
+}
+
+.elementor-1328 .elementor-element.elementor-element-330701c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-330701c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-72b6b70>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-014568a .elementor-spacer-inner {
+    --spacer-size: 128px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-5c629cb {
+    text-align: center;
+}
+
+.elementor-1328 .elementor-element.elementor-element-5c629cb .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    text-shadow: 0px 0px 14px #000000;
+}
+
+.elementor-1328 .elementor-element.elementor-element-e8af93b {
+    text-align: center;
+}
+
+.elementor-1328 .elementor-element.elementor-element-e8af93b .elementor-heading-title {
+    color: var(--e-global-color-98c822c);
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-shadow: 5px 5px 11px #000000;
+}
+
+.elementor-1328 .elementor-element.elementor-element-b16ee77:not(.elementor-motion-effects-element-type-background),
+.elementor-1328 .elementor-element.elementor-element-b16ee77>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent);
+}
+
+.elementor-1328 .elementor-element.elementor-element-b16ee77 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 2em 1em 0em 1em;
+}
+
+.elementor-1328 .elementor-element.elementor-element-b16ee77>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-ef60d91>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-ef60d91>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-ef60d91>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-be29103 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-46d6478 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-46d6478 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.elementor-1328 .elementor-element.elementor-element-e8ff3a0:not(.elementor-motion-effects-element-type-background),
+.elementor-1328 .elementor-element.elementor-element-e8ff3a0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent);
+}
+
+.elementor-1328 .elementor-element.elementor-element-e8ff3a0 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0em 1em 0em 1em;
+}
+
+.elementor-1328 .elementor-element.elementor-element-e8ff3a0>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-477be74>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-477be74>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-477be74>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-bad11c2 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-630f1f3 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-630f1f3 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.elementor-1328 .elementor-element.elementor-element-9af61a5:not(.elementor-motion-effects-element-type-background),
+.elementor-1328 .elementor-element.elementor-element-9af61a5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent);
+}
+
+.elementor-1328 .elementor-element.elementor-element-9af61a5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0em 1em 2em 1em;
+}
+
+.elementor-1328 .elementor-element.elementor-element-9af61a5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-b9ab89e>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-b9ab89e>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-b9ab89e>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1328 .elementor-element.elementor-element-02b5944 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-02b5944>.elementor-widget-container {
+    margin: 0px 0px 0px 4px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-f024a09 {
+    text-align: left;
+}
+
+.elementor-1328 .elementor-element.elementor-element-f024a09 .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.elementor-1328 .elementor-element.elementor-element-4182830 {
+    padding: 4em 2em 6em 2em;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group {
+    margin-bottom: 21px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-form-fields-wrapper {
+    margin-bottom: -21px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group>label {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-type-html {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group .elementor-field {
+    color: #000000C9;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group .elementor-field,
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-subgroup label {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #9CB8BB21;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #9CB8BB21;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-button {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight);
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .e-form__buttons__wrapper__button-next {
+    background-color: var(--e-global-color-primary);
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-button[type="submit"] {
+    background-color: var(--e-global-color-primary);
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-button[type="submit"] svg * {
+    fill: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .e-form__buttons__wrapper__button-previous {
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .e-form__buttons__wrapper__button-next:hover {
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-button[type="submit"]:hover {
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .elementor-button[type="submit"]:hover svg * {
+    fill: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 .e-form__buttons__wrapper__button-previous:hover {
+    color: #ffffff;
+}
+
+.elementor-1328 .elementor-element.elementor-element-2cca161 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px;
+}
+
+#elementor-popup-modal-1328 .dialog-message {
+    height: auto;
+}
+
+#elementor-popup-modal-1328 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #000000D6;
+}
+
+#elementor-popup-modal-1328 .dialog-close-button {
+    display: flex;
+    font-size: 29px;
+}
+
+#elementor-popup-modal-1328 .dialog-widget-content {
+    animation-duration: 1.2s;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-1328 .dialog-close-button i {
+    color: var(--e-global-color-98c822c);
+}
+
+#elementor-popup-modal-1328 .dialog-close-button svg {
+    fill: var(--e-global-color-98c822c);
+}
+
+@media(max-width:767px) {
+    .elementor-1328 .elementor-element.elementor-element-5c629cb .elementor-heading-title {
+        font-size: 37px;
+    }
+
+    .elementor-1328 .elementor-element.elementor-element-e8af93b .elementor-heading-title {
+        font-size: 22px;
+    }
+
+    .elementor-1328 .elementor-element.elementor-element-4182830 {
+        padding: 2em 1em 2em 1em;
+    }
+}
