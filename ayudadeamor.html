@@ -292,6 +292,97 @@
         .has-x-large-font-size {
             font-size: var(--wp--preset--font-size--x-large) !important;
         }
+
+        .box {
+            width: 40%;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 35px;
+            border: 2px solid #fff;
+            border-radius: 20px/50px;
+            background-clip: padding-box;
+            text-align: center;
+        }
+
+        .button {
+            font-size: 1em;
+            padding: 10px;
+            color: #fff;
+            border: 2px solid #06D85F;
+            border-radius: 20px/50px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.3s ease-out;
+        }
+
+        .button:hover {
+            background: #06D85F;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.7);
+            transition: opacity 500ms;
+            visibility: hidden;
+            opacity: 0;
+        }
+
+        .overlay:target {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .popup {
+            margin: 70px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            width: 30%;
+            position: relative;
+            transition: all 5s ease-in-out;
+            text-align: center;
+        }
+
+        .popup h2 {
+            margin-top: 0;
+            color: #333;
+            font-family: Tahoma, Arial, sans-serif;
+        }
+
+        .popup .close {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            transition: all 200ms;
+            font-size: 30px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #333;
+        }
+
+        .popup .close:hover {
+            color: black;
+        }
+
+        .popup .content {
+            max-height: 30%;
+            overflow: auto;
+
+        }
+
+        @media screen and (max-width: 700px) {
+            .box {
+                width: 70%;
+            }
+
+            .popup {
+                width: 70%;
+            }
+        }
     </style>
     <link rel='stylesheet' id='ppress-frontend-css' href='./css/frontend.min.css?ver=3.2.11' type='text/css'
         media='all' />
@@ -712,8 +803,7 @@
                                         data-id="144baf0" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="https://secure.subsplash.com/ui/access/QG9P8F#/#"
-                                                    target="_blank"
+                                                <a href="#popup1"
                                                     class="elementor-button-link elementor-button elementor-size-sm"
                                                     role="button">
                                                     <span class="elementor-button-content-wrapper">
@@ -797,6 +887,33 @@
                     </div>
                 </div>
             </div>
+
+
+
+            <div style="width:100%;display:flex;flex-direction:row">
+                <div><img style="width:100%" src="./img/M-Next-Gen.jpg" /><br>
+                    <p style="font-size:25px;width:100%;text-align:center;PADDING:0PX;margin:0px"><B>TONELADAS</B> </P>
+                    <P style="font-size:16px;width:100%;text-align:center"> de bolsas de alimentos<BR /> (una
+                        canasta básica por bolsa).</p>
+                </div>
+                <div><img style="width:100%" src="./img/M-Next-Gen.jpg" /><br>
+                    <p style="font-size:25px;width:100%;text-align:center;PADDING:0PX;margin:0px"><B>MILES</B> </P>
+                    <P style="font-size:16px;width:100%;text-align:center"> de prendas de invierno<BR />
+                        (bufandas, guantes, gorros, frazadas, camperas).</p>
+                </div>
+                <div><img style="width:100%" src="./img/M-Next-Gen.jpg" /><br>
+                    <p style="font-size:25px;width:100%;text-align:center;PADDING:0PX;margin:0px"><B>CIENTOS </B></P>
+                    <P style="font-size:16px;width:100%;text-align:center"> de acompañamientos para la
+                        inserción laboral para desempleados.</p>
+                </div>
+
+            </div>
+
+
+            <div style="height:20px"></div>
+
+
+
             <div class="post-tags">
             </div>
         </div>
@@ -937,9 +1054,10 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div
                                                                         class="elementor-text-editor elementor-clearfix">
-                                                                        <p>Martes y viernes 19:30 hs</p>
-                                                                        <p>Domingos 11:00 hs</p>
-
+                                                                        <p style="margin:0px;padding:0px">Martes y
+                                                                            viernes 19:30 hs</p>
+                                                                        <p style="margin:0px;padding:0px">Domingos 11:00
+                                                                            hs</p>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -984,7 +1102,7 @@
                                                                                 Amor</a><br />
                                                                             <a
                                                                                 href="./paratufamilia.html">Evangelismo</a><br />
-                                                                            <a href="./index.html">Donar</a>
+                                                                            <a href="#popup1">Donar</a>
                                                                             </a><br /><br />
                                                                         </p>
                                                                         <p>
@@ -1873,7 +1991,7 @@
                                         data-id="bc7e9ca" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="https://secure.subsplash.com/ui/access/QG9P8F#/#"
+                                                <a href="./index.html#popup1"
                                                     class="elementor-button-link elementor-button elementor-size-sm"
                                                     role="button">
                                                     <span class="elementor-button-content-wrapper">
@@ -1922,6 +2040,22 @@
                     </div>
                 </div>
             </section>
+        </div>
+    </div>
+    <div id="popup1" class="overlay">
+        <div class="popup">
+            <h2></h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content"> <br /><br /><img src="img/santander.png" /><br />
+                <BR /><BR />Entidad: Maranatha La Iglesia de Jesús<BR />
+                CUIT: 30716469278<BR />
+                Nro de cuenta : 4973/5<BR />
+                Alias: maranatha.argentina<BR />
+                CBU: 0720039720000000497354<BR />
+                Banco: Santander Rio
+                <br><br>
+                <div style="height:10px;"></div>
+            </div>
         </div>
     </div>
     <div data-elementor-type="popup" data-elementor-id="2067" class="elementor elementor-2067 elementor-location-popup"
