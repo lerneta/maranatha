@@ -386,6 +386,10 @@
                 width: 100%;
             }
         }
+
+        .eicon-close {
+            visibility: hidden !important;
+        }
     </style>
     <link rel='stylesheet' id='ppress-frontend-css' href='./css/frontend.min.css?ver=3.2.11' type='text/css'
         media='all' />
@@ -640,6 +644,8 @@
                         <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1afbefba"
                             data-id="1afbefba" data-element_type="column">
                             <div class="elementor-column-wrap elementor-element-populated">
+                                <a class="close" onclick="window.location.replace('./sosnuevo.html?id=1');"
+                                    style="color:white;margin-top:-60px;">&times;</a>
                                 <div class="elementor-widget-wrap">
                                     <div class="elementor-element elementor-element-45d30763 elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
                                         data-id="45d30763" data-element_type="widget"
@@ -910,7 +916,7 @@
     <div id="popup2" class="overlay" style="z-index:999">
         <div class="popup">
             <h2></h2>
-            <a class="close" href="#">&times;</a>
+            <a class="close" href="#" style="margin-top:-10px;margin-left:10px">&times;</a>
             <div class="content">
 
 
@@ -2874,7 +2880,7 @@
             </section>
         </div>
     </div>
-    <div id="popup1" class="overlay">
+    <div id="popup1" onclick="window.location.href = '#';" class="overlay">
         <div class="popup">
             <h2></h2>
             <a class="close" href="#">&times;</a>

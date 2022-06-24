@@ -14,6 +14,7 @@
         href="https://maranathausa.com/es/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Maranatha Argentina &raquo; Feed de los comentarios"
         href="https://maranathausa.com/es/comments/feed/" />
+    <link rel="stylesheet" href="./css/slidefotos.css">
     <script type="text/javascript">
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/maranathausa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3" } };
         /*! This file is auto-generated */
@@ -374,6 +375,10 @@
         .has-x-large-font-size {
             font-size: var(--wp--preset--font-size--x-large) !important;
         }
+
+        .eicon-close {
+            visibility: hidden !important;
+        }
     </style>
     <link rel='stylesheet' id='ppress-frontend-css' href='./css/frontend.min.css?ver=3.2.11' type='text/css'
         media='all' />
@@ -628,6 +633,8 @@
                         <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1afbefba"
                             data-id="1afbefba" data-element_type="column">
                             <div class="elementor-column-wrap elementor-element-populated">
+                                <a class="close" onclick="window.location.replace('./paratufamilia.html?id=1');"
+                                    style="color:white;margin-top:-60px;">&times;</a>
                                 <div class="elementor-widget-wrap">
                                     <div class="elementor-element elementor-element-45d30763 elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
                                         data-id="45d30763" data-element_type="widget"
@@ -979,12 +986,25 @@
                                                             <p>3- ¡Listo! Ya tus hijos pueden participar.</p>
 
                                                         </div>
+
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
+                            </div>
+                            <div id="slider">
+                                <a class="control_next">>></a>
+                                <a class="control_prev">
+                                    << <a>
+                                        <ul>
+                                            <li>SLIDE 1</li>
+                                            <li style="background: #aaa;">SLIDE 2</li>
+                                            <li>SLIDE 3</li>
+                                            <li style="background: #aaa;">SLIDE 4</li>
+                                        </ul>
                             </div>
                         </section>
 
@@ -1179,16 +1199,13 @@
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                            <p><strong>¿Cuáles son los requisitos para inscribir a mis
-                                                                    hijos?
-                                                                </strong></p>
-                                                            <p> 1- Tener hijos entre 3 y 12 años.</p>
-                                                            <p>2- Solicitar la planilla de registro al finalizar una
-                                                                reunión.
-                                                            </p>
-                                                            <p>3- ¡Listo! Ya tus hijos pueden participar.</p>
+
 
                                                         </div>
+                                                        <script
+                                                            src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+                                                        <script src="./js/slider.js"></script>
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -2581,7 +2598,7 @@
             </section>
         </div>
     </div>
-    <div id="popup1" class="overlay">
+    <div id="popup1" class="overlay" onclick="window.location.href = '#';">
         <div class="popup">
             <h2></h2>
             <a class="close" href="#">&times;</a>
