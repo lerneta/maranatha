@@ -137,6 +137,7 @@
         .overlay:target {
             visibility: visible;
             opacity: 1;
+            z-index: 99999
         }
 
         .popup {
@@ -400,6 +401,10 @@
         }
 
         .eicon-close {
+            visibility: hidden !important;
+        }
+
+        .smart-page-loader {
             visibility: hidden !important;
         }
     </style>
@@ -740,6 +745,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!--Menu bueno-->
                         <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-904d40c"
                             data-id="904d40c" data-element_type="column">
                             <div class="elementor-column-wrap elementor-element-populated">
@@ -797,6 +803,16 @@
                                                         <a href="./sosnuevo.html" class="elementor-item"
                                                             tabindex="-1">¿SOS NUEVO?</a>
                                                     </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./ayudadeamor.html" class="elementor-item"
+                                                            tabindex="-1">AYUDA DE AMOR</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./evangelismo.html" class="elementor-item"
+                                                            tabindex="-1">EVANGELISMO</a>
+                                                    </li>
 
                                                 </ul>
                                             </nav>
@@ -806,9 +822,9 @@
                                         data-id="144baf0" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="#popup1"
+                                                <a onclick="document.all['popup1'].style.visibility='visible'; document.all['popup1'].style.opacity='1';"
                                                     class="elementor-button-link elementor-button elementor-size-sm"
-                                                    role="button">
+                                                    role="button" style="cursor:pointer">
                                                     <span class="elementor-button-content-wrapper">
                                                         <span class="elementor-button-text">DONAR</span>
                                                     </span>
@@ -1683,7 +1699,8 @@
                                                                                 Amor</a><br />
                                                                             <a
                                                                                 href="./evangelismo.html">Evangelismo</a><br />
-                                                                            <a href="#popup1">Donar</a><br />
+                                                                            <a
+                                                                                onclick="document.all['popup1'].style.visibility='visible'; document.all['popup1'].style.opacity='1';">Donar</a><br />
                                                                         </p>
                                                                         <p>
                                                                             Comprobante de Inscripción<br>
@@ -1731,6 +1748,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
                                                 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-90fec5e"
                                                     data-id="90fec5e" data-element_type="column">
                                                     <div class="elementor-column-wrap elementor-element-populated">
@@ -1739,7 +1757,30 @@
                                                                 data-id="838e818" data-element_type="widget"
                                                                 data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
+                                                                    <table
+                                                                        style="width:130px; margin:0 auto 0 auto; color:white; font-size:26px">
+                                                                        <tr>
+                                                                            <td><a
+                                                                                    href="https://www.youtube.com/maranathaargentina"><i
+                                                                                        class="fa fa-youtube-play"
+                                                                                        aria-hidden="true"></i></a>
+                                                                            </td>
+                                                                            <td><a
+                                                                                    href="https://www.instagram.com/maranathaargentina/"><i
+                                                                                        class="fa fa-instagram"
+                                                                                        aria-hidden="true"></i></a>
+
+                                                                            </td>
+                                                                            <td>
+                                                                                <a
+                                                                                    href="https://www.facebook.com/maranathaargentina/"><i
+                                                                                        class="fa fa-facebook-square"
+                                                                                        aria-hidden="true"></i></a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table><br />
                                                                     <div class="elementor-image">
+
                                                                         <a href="#">
                                                                             <img width="256" height="81"
                                                                                 src="https://maranathausa.com/wp-content/uploads/2020/11/Maranatha-Internacional.png"
@@ -2102,7 +2143,8 @@
                                     <div class="elementor-element elementor-element-4894121 elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
                                         data-id="4894121" data-element_type="widget"
                                         data-widget_type="theme-site-logo.default">
-                                        <a class="close" onclick="window.location.replace('./index.html?id=1');"
+                                        <a class="close"
+                                            onclick="document.all['elementor-popup-modal-37'].style.display='none';"
                                             style="color:white;margin-top:-60px;">&times;</a>
                                         <div class="elementor-widget-container">
 
@@ -2183,7 +2225,16 @@
                                                         <a href="./sosnuevo.html" class="elementor-item">¿SOS
                                                             NUEVO?</a>
                                                     </li>
-
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./ayudadeamor.html" class="elementor-item"
+                                                            tabindex="-1">AYUDA DE AMOR</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./evangelismo.html" class="elementor-item"
+                                                            tabindex="-1">EVANGELISMO</a>
+                                                    </li>
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0"
@@ -2248,9 +2299,9 @@
                                         data-id="bc7e9ca" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a onclick="window.location.replace('./index.html?id=1#popup1');"
+                                                <a onclick="document.all['popup1'].style.visibility='visible'; document.all['popup1'].style.opacity='1';"
                                                     class="elementor-button-link elementor-button elementor-size-sm"
-                                                    role="button">
+                                                    role="button" style="cursor:pointer">
                                                     <span class="elementor-button-content-wrapper">
                                                         <span class="elementor-button-text">DONAR</span>
                                                     </span>
@@ -2722,10 +2773,9 @@
     <div id="popup1" class="overlay">
         <div class="popup">
             <h2></h2>
-            <i class="fa fa-times" aria-hidden="true"
-                onclick="document.all['popup1'].getElementsByClassName('overlay');"
-                style="margin-left:95%; font-size:20px"></i>
-            <div class="content"> <img src="img/santander.png" /><br />
+            <a class="close" style="cursor:pointer"
+                onclick="document.all['popup1'].style.visibility='hidden'; document.all['popup1'].style.opacity='0';">&times;</a>
+            <div class="content"> <br /><br /><img src="img/santander.png" /><br />
                 <BR /><BR />Entidad: Maranatha La Iglesia de Jesús<BR />
                 CUIT: 30716469278<BR />
                 Nro de cuenta : 4973/5<BR />
