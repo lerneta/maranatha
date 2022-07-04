@@ -1876,7 +1876,8 @@
         </div>
     </div>
     <div data-elementor-type="popup" data-elementor-id="37" class="elementor elementor-37 elementor-location-popup"
-        data-elementor-settings="{&quot;entrance_animation&quot;:&quot;slideInRight&quot;,&quot;exit_animation&quot;:&quot;slideInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;0.8&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+        data-elementor-settings="{&quot;entrance_animation&quot;:&quot;slideInRight&quot;,&quot;exit_animation&quot;:&quot;slideInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;0.8&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}"
+        style="display: block;">
         <div class="elementor-section-wrap">
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-57ddc3a0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -1898,13 +1899,17 @@
                                     <div class="elementor-element elementor-element-4894121 elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
                                         data-id="4894121" data-element_type="widget"
                                         data-widget_type="theme-site-logo.default">
+                                        <a class="close"
+                                            onclick="document.all['elementor-popup-modal-37'].style.display='none';"
+                                            style="color:white;margin-top:-60px;">×</a>
                                         <div class="elementor-widget-container">
+
                                             <div class="elementor-image">
-                                                <a href="./index.html">
+                                                <a href="./index.html#">
                                                     <img width="350" height="58" src="./img/Logo Principal.png"
                                                         class="attachment-full size-full" alt="" loading="lazy"
                                                         srcset="./img/Logo Principal.png 350w, ./img/Logo Principal.png 300w"
-                                                        sizes="(max-width: 350px) 100vw, 350px" /> </a>
+                                                        sizes="(max-width: 350px) 100vw, 350px"> </a>
                                             </div>
                                         </div>
                                     </div>
@@ -1939,38 +1944,54 @@
                     </div>
                 </div>
             </section>
+
+            <!--Menu celular-->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-6570d01c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="6570d01c" data-element_type="section">
+
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-row">
+
                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-733386da"
                             data-id="733386da" data-element_type="column">
                             <div class="elementor-column-wrap elementor-element-populated">
                                 <div class="elementor-widget-wrap">
                                     <div class="elementor-element elementor-element-2e324b78 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu"
                                         data-id="2e324b78" data-element_type="widget"
-                                        data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fa fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}"
+                                        data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}"
                                         data-widget_type="nav-menu.default">
                                         <div class="elementor-widget-container">
+
                                             <nav migration_allowed="1" migrated="0" role="navigation"
                                                 class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
-                                                <ul id="menu-1-2e324b78" class="elementor-nav-menu sm-vertical">
+                                                <ul id="menu-1-2e324b78" class="elementor-nav-menu sm-vertical"
+                                                    data-smartmenus-id="16569684152294912">
                                                     <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1672">
-                                                        <a href="./index.html" class="elementor-item">INICIO</a>
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1663 current_page_item menu-item-1672">
+                                                        <a href="./index.html#" aria-current="page"
+                                                            class="elementor-item elementor-item-active">INICIO</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835">
-                                                        <a href="./index.html#quienessomos"
-                                                            class="elementor-item">¿QUIENES SOMOS?</a>
+                                                        <a href="#quienessomos" class="elementor-item">¿QUIENES
+                                                            SOMOS?</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
                                                         <a href="./sosnuevo.html" class="elementor-item">¿SOS
                                                             NUEVO?</a>
                                                     </li>
-
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./ayudadeamor.html" class="elementor-item"
+                                                            tabindex="-1">AYUDA DE AMOR</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
+                                                        <a href="./evangelismo.html" class="elementor-item"
+                                                            tabindex="-1">EVANGELISMO</a>
+                                                    </li>
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0"
@@ -1978,32 +1999,31 @@
                                                 <i aria-hidden="true" role="presentation"
                                                     class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i
                                                     aria-hidden="true" role="presentation"
-                                                    class="elementor-menu-toggle__icon--close eicon-close"></i> <span
+                                                    class="elementor-menu-toggle__icon--close fa fa-times"></i> <span
                                                     class="elementor-screen-only">Menú</span>
                                             </div>
                                             <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
                                                 role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-2e324b78" class="elementor-nav-menu sm-vertical">
+                                                <ul id="menu-2-2e324b78" class="elementor-nav-menu sm-vertical"
+                                                    data-smartmenus-id="16569684152303376">
                                                     <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1672">
-                                                        <a href="./index.html" class="elementor-item"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1663 current_page_item menu-item-1672">
+                                                        <a href="./index.html#" aria-current="page"
+                                                            class="elementor-item elementor-item-active"
                                                             tabindex="-1">INICIO</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835">
-                                                        <a href="./index.html#quienessomos" class="elementor-item"
-                                                            tabindex="-1">CAMPUS EN LÍNEA</a>
+                                                        <a href="#quienessomos" class="elementor-item"
+                                                            tabindex="-1">¿QUIENES SOMOS?</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1836">
                                                         <a href="./sosnuevo.html" class="elementor-item"
                                                             tabindex="-1">¿ERES NUEVO?</a>
                                                     </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1837">
-                                                        <a href="https://maranathausa.com/es/proximos-pasos/"
-                                                            class="elementor-item" tabindex="-1">INVOLÚCRATE</a>
-                                                    </li>
+
+
                                                 </ul>
                                             </nav>
                                         </div>
@@ -2037,11 +2057,11 @@
                                         data-id="bc7e9ca" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="./index.html#popup1"
+                                                <a onclick="document.all['popup1'].style.visibility='visible'; document.all['popup1'].style.opacity='1';"
                                                     class="elementor-button-link elementor-button elementor-size-sm"
-                                                    role="button">
+                                                    role="button" style="cursor:pointer">
                                                     <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">DONA</span>
+                                                        <span class="elementor-button-text">DONAR</span>
                                                     </span>
                                                 </a>
                                             </div>
@@ -2073,12 +2093,8 @@
                                                         <span class="elementor-screen-only">Facebook-square</span>
                                                         <i class="fa fa-facebook"></i> </a>
                                                 </span>
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-db0284c"
-                                                        href="https://twitter.com/maranathausa" target="_blank">
-                                                        <span class="elementor-screen-only">Twitter</span>
-                                                        <i class="fa fa-twitter"></i> </a>
-                                                </span>
+
+                                                t
                                             </div>
                                         </div>
                                     </div>
